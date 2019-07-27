@@ -1,2 +1,10 @@
+$enable-shadows: true;
+$enable-gradients: true;
 @import '~bootstrap/scss/bootstrap';
 @import '~bootstrap-vue/src/index.scss';
+
+.card-plain {
+  background: transparent;
+  box-shadow: none;
+  border: 0;
+}

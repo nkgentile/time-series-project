@@ -1,6 +1,4 @@
-<template>
-  <main></main>
-</template>
+<template> </template>
 
 <script>
   import team from "@/assets/json/team.json";

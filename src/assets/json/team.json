@@ -1,5 +1,6 @@
 [
   {
+    "id": 0,
     "firstName": "Ram",
     "lastName": "Nagpure",
     "role": "Infrastructure",
@@ -7,13 +8,15 @@
     "portrait": ""
   },
   {
+    "id": 1,
     "firstName": "Jim",
     "lastName": "Maze",
-    "role": "Business Knowledge and Model Input",
+    "role": "Business Knowledge",
     "bio": "CFA Charterholder with 20 years of professional financial market experience, with a focus on invesment management and advisory services. Most recently concentrating on the incorporation of quantitative analysis and machine learning in the investment decision making process and alpha generation.",
     "portrait": ""
   },
   {
+    "id": 2,
     "firstName": "Patrick A.",
     "lastName": "Nierva",
     "role": "AI",
@@ -21,6 +24,7 @@
     "portrait": ""
   },
   {
+    "id": 3,
     "firstName": "Larni",
     "lastName": "Espada",
     "role": "AI",
@@ -28,6 +32,7 @@
     "portrait": ""
   },
   {
+    "id": 4,
     "firstName": "Chiyuan",
     "lastName": "Cheng",
     "role": "AI",
@@ -35,13 +40,15 @@
     "portrait": ""
   },
   {
+    "id": 5,
     "firstName": "Jennifer",
     "lastName": "Yuan",
     "role": "Project Manager",
-    "bio": "20 years experience in software development. Passionate about learning. Chinese brush painting and calligraphy artist.",
+    "bio": "26 years experience in software development. Passionate about learning. Chinese brush painting and calligraphy artist.",
     "portrait": ""
   },
   {
+    "id": 7,
     "firstName": "Vinicius",
     "lastName": "Pantoja",
     "role": "AI",
@@ -49,30 +56,34 @@
     "portrait": ""
   },
   {
+    "id": 8,
     "firstName": "Pravin (vin)",
     "lastName": "Dalvi",
-    "role": "Data Engg",
+    "role": "Data Engineer",
     "bio": "Chemical Engineerby training, 20+ yeras of IT SDLC experience with focus on data engineering, software architecture and product management",
     "portrait": ""
   },
   {
+    "id": 9,
     "firstName": "Sunita",
     "lastName": "Chanchlani",
-    "role": "Front End/Design",
+    "role": "Designer",
     "bio": "Business Analyst with Computer Science and Statistical background. Tableau, AWS and DELL EMC Data Science Certified. Art is my passion, have created interesting artworks whenever I had the opportunity. I bring the same passion in creating captivating visuals, BI reports and Dashboards.",
     "portrait": ""
   },
   {
+    "id": 10,
     "firstName": "Maggie",
     "lastName": "Miller",
-    "role": "Business Knowledge and Model Input",
+    "role": "Business Knowledge",
     "bio": "Product manager and engineer with financial markets, marketing, and start-up experience. Volunteers as Secretary of UNOW Day Nursery and runs communications for local university alumni group. Always eager to learn something new!",
     "portrait": ""
   },
   {
+    "id": 11,
     "firstName": "Noah",
     "lastName": "Gentile",
-    "role": "Web Developer",
+    "role": "Developer",
     "bio": "",
     "portrait": ""
   }
