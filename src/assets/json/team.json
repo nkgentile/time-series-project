@@ -1,0 +1,79 @@
+[
+  {
+    "firstName": "Ram",
+    "lastName": "Nagpure",
+    "role": "Infrastructure",
+    "bio": "",
+    "portrait": ""
+  },
+  {
+    "firstName": "Jim",
+    "lastName": "Maze",
+    "role": "Business Knowledge and Model Input",
+    "bio": "CFA Charterholder with 20 years of professional financial market experience, with a focus on invesment management and advisory services. Most recently concentrating on the incorporation of quantitative analysis and machine learning in the investment decision making process and alpha generation.",
+    "portrait": ""
+  },
+  {
+    "firstName": "Patrick A.",
+    "lastName": "Nierva",
+    "role": "AI",
+    "bio": "Recent Pre-Physical Therapy graduate expanding technical/quantitative skill set while exploring the capabilities of Machine Learning. ",
+    "portrait": ""
+  },
+  {
+    "firstName": "Larni",
+    "lastName": "Espada",
+    "role": "AI",
+    "bio": "Insight-to-Action Professional: drives development of data-driven analytical insights into impactful decisions in business and other applications.",
+    "portrait": ""
+  },
+  {
+    "firstName": "Chiyuan",
+    "lastName": "Cheng",
+    "role": "AI",
+    "bio": "Physical chemist and biophysicist by training. Research scientist in healthcare/consumer product industry. Self-motivated and lifelong learner in data science and machine learning.",
+    "portrait": ""
+  },
+  {
+    "firstName": "Jennifer",
+    "lastName": "Yuan",
+    "role": "Project Manager",
+    "bio": "20 years experience in software development. Passionate about learning. Chinese brush painting and calligraphy artist.",
+    "portrait": ""
+  },
+  {
+    "firstName": "Vinicius",
+    "lastName": "Pantoja",
+    "role": "AI",
+    "bio": "Data Scientist and Entrepreneur. Chief of Innovation at Princeton Gavel (www.princetongavel.com) and at AI Consult (aiconsult.business)",
+    "portrait": ""
+  },
+  {
+    "firstName": "Pravin (vin)",
+    "lastName": "Dalvi",
+    "role": "Data Engg",
+    "bio": "Chemical Engineerby training, 20+ yeras of IT SDLC experience with focus on data engineering, software architecture and product management",
+    "portrait": ""
+  },
+  {
+    "firstName": "Sunita",
+    "lastName": "Chanchlani",
+    "role": "Front End/Design",
+    "bio": "Business Analyst with Computer Science and Statistical background. Tableau, AWS and DELL EMC Data Science Certified. Art is my passion, have created interesting artworks whenever I had the opportunity. I bring the same passion in creating captivating visuals, BI reports and Dashboards.",
+    "portrait": ""
+  },
+  {
+    "firstName": "Maggie",
+    "lastName": "Miller",
+    "role": "Business Knowledge and Model Input",
+    "bio": "Product manager and engineer with financial markets, marketing, and start-up experience. Volunteers as Secretary of UNOW Day Nursery and runs communications for local university alumni group. Always eager to learn something new!",
+    "portrait": ""
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Gentile",
+    "role": "Web Developer",
+    "bio": "",
+    "portrait": ""
+  }
+]
